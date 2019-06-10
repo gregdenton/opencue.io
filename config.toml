@@ -86,6 +86,7 @@ time_format_blog = "02.01.2006"
 copyright = "Copyright Contributors to the OpenCue Project"
 privacy_policy = "https://lfprojects.org/policies/privacy-policy/"
 github_repo = "https://github.com/imageworks/opencue.io"
+github_project_repo = "https://github.com/imageworks/opencue"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 # gcs_engine_id = "011737558837375720776:fsdu1nryfng"
